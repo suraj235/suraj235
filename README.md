@@ -7,8 +7,9 @@ Passionate MCA graduate turned seasoned software developer with 4 years of hands
 ## 🚀 About Me
 
 - 🔭 I hold a Master's degree in Computer Applications (MCA) and have seamlessly blended my academic knowledge with 4 years of practical experience as a software developer.
-- 🚀 Proficient in troubleshooting problems and resolving bugs within existing systems
+- 🚀 Specializing in React.js, Next.js & PHP.
 - 🚀 Extensive experience in Content Management Systems (CMS) such as WordPress with proficiency in Custom themes and plugins development.
+- 🚀 Proficient in troubleshooting problems and resolving bugs within existing systems
 - 🌐 I actively contribute and engage with the developer community on Stack Overflow. Feel free to check out my profile [here](https://stackoverflow.com/users/12484098/suraj-sanwal)
 
 
