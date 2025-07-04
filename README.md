@@ -14,7 +14,7 @@ Passionate MCA graduate turned seasoned software developer with 4 years of hands
 
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,scss,jquery,wordpress,php,react,next,vue,nodejs,graphql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,bootstrap,tailwind,scss,jquery,wordpress,php,mysql,react,next,vue,nodejs,npm,yarn,git,github,windows,linux,apple,docker,aws,figma,xd,graphql,cypress,cloudflare,codepen,sublime,visualstudio,phpstorm)](https://skillicons.dev)
 
 ## 🌱 Currently Exploring
 
