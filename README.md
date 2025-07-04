@@ -1,6 +1,6 @@
 # Hi, I'm Suraj! 👋
 
-Passionate MCA graduate turned seasoned software developer with 4 years of hands-on experience, crafting elegant solutions and transforming ideas into robust code. Committed to continual learning and collaborative innovation in the ever-evolving realm of technology.
+Passionate MCA graduate turned seasoned software developer with 5+ years of hands-on experience, crafting elegant solutions and transforming ideas into robust code. Committed to continual learning and collaborative innovation in the ever-evolving realm of technology.
 
 ![<suraj235>'s Stats](https://github-readme-stats.vercel.app/api?username=suraj235&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
