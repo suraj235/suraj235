@@ -6,7 +6,7 @@ Passionate MCA graduate turned seasoned software developer with 5+ years of hand
 
 ## 🚀 About Me
 
-- 🔭 I hold a Master's degree in Computer Applications (MCA) and have seamlessly blended my academic knowledge with 4 years of practical experience as a software developer.
+- 🔭 I hold a Master's degree in Computer Applications (MCA) and have seamlessly blended my academic knowledge with 5+ years of practical experience as a software developer.
 - 🚀 Specializing in React.js, Next.js & PHP.
 - 🚀 Extensive experience in Content Management Systems (CMS) such as WordPress with proficiency in Custom themes and plugins development.
 - 🚀 Proficient in troubleshooting problems and resolving bugs within existing systems
